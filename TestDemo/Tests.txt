@@ -1,0 +1,13 @@
+1)verify standard user login
+2)verify locked_out_user login
+3)verify problem_user login
+4)verify performance_glitch_user login 
+5)verify with invalid password 
+6)verify sorting of products displayed using sort option
+7)verify add to cart functionality
+8)veryify remove cart functionality
+9)Test entire functionality till the checkout and order confirmation
+10)verify logout functionality
+11)verify the product detail description page
+12)Verify reset app functionality
+13)verify about functionality

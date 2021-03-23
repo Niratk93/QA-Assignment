@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10507" started-at="2021-03-18T11:42:12Z" finished-at="2021-03-18T11:42:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10507" started-at="2021-03-18T11:42:12Z" finished-at="2021-03-18T11:42:22Z">
+      <class name="sameple.com.TestDemo.EndTests">
+        <test-method status="PASS" signature="generateReports()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="generateReports" is-config="true" duration-ms="124" started-at="2021-03-18T11:42:12Z" finished-at="2021-03-18T11:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="launchBrowser" is-config="true" duration-ms="3528" started-at="2021-03-18T11:42:12Z" finished-at="2021-03-18T11:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="CartTest()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="CartTest" duration-ms="3140" started-at="2021-03-18T11:42:15Z" finished-at="2021-03-18T11:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method status="PASS" signature="LockUserTest()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="LockUserTest" duration-ms="608" started-at="2021-03-18T11:42:18Z" finished-at="2021-03-18T11:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LockUserTest -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="LoginTest" duration-ms="692" started-at="2021-03-18T11:42:19Z" finished-at="2021-03-18T11:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LogoutTest()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="LogoutTest" duration-ms="817" started-at="2021-03-18T11:42:20Z" finished-at="2021-03-18T11:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method status="PASS" signature="RemoveCart()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="RemoveCart" duration-ms="975" started-at="2021-03-18T11:42:20Z" finished-at="2021-03-18T11:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveCart -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="quitBrowser" is-config="true" duration-ms="705" started-at="2021-03-18T11:42:21Z" finished-at="2021-03-18T11:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="closeReports()[pri:0, instance:sameple.com.TestDemo.EndTests@685cb137]" name="closeReports" is-config="true" duration-ms="159" started-at="2021-03-18T11:42:22Z" finished-at="2021-03-18T11:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReports -->
+      </class> <!-- sameple.com.TestDemo.EndTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
